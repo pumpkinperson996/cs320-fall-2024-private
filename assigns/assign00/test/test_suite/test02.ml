@@ -1,4 +1,4 @@
-(* open OUnit2
+open OUnit2
 open Assign00_02
 
 let test_example n e =
@@ -22,4 +22,4 @@ let test_examples = "Basic is_prime examples" >:::
   ; test_example 57 false
   ; test_example 97 true
   ]
- *)
+
